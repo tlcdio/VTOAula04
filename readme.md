@@ -1,3 +1,3 @@
-# Exercício Aula 4 - Variáveis, Tipos de dados e Operadores aritméticos 
+# Exercício Aula 4: Conversões(casting)
 
-Olá! Neste exercício estão codificados os exemplos da Aula 4 além de algumas explicações a mais.
+Olá! Neste exercício estão codificados os exemplos da Aula 4 do curso de Variáveis, Tipos de dados e Operadores aritméticos. Além disso também possui algumas explicações a mais.
